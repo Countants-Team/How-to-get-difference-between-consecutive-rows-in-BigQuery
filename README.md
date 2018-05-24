@@ -1,1 +1,1 @@
-# Difference-Between-Consecutive-Rows
+# How to  get difference between consecutive rows in BigQuery
