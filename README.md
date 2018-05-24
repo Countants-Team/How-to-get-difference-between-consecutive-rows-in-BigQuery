@@ -1,4 +1,7 @@
 # How to  get difference between consecutive rows in BigQuery
+
+#### We have a series of entries in a database, one of which is a timestamp. I'd like to add as a field the difference between the Values of the current row and the row preceding it.
+
 #### This is the table:
 
  | Row No | Date | Values |
